@@ -150,8 +150,7 @@ public class Jeopardy implements ActionListener {
 					1000);
 		}
 		if (buttonPressed == secondButton) {
-			askQuestion("The formula for this triangle's line lengths is: C^2 = A^2 + B^2",
-					"What is the pythagorean theorem?", 400);
+			askQuestion("The formula for this triangle's line lengths is: C^2 = A^2 + B^2","What is the pythagorean theorem?", 400);
 		}
 		if (buttonPressed == secondButton2) {
 			askQuestion("She was the oldest cat ever to live.", "Who was Creme Puff?", 400);
